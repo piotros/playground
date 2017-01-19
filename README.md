@@ -2,3 +2,4 @@
 GitMagic test
 qwerty
 lorem
+testin' dirty
